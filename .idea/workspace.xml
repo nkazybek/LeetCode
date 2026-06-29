@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a1941e-2c9a-490b-89d5-7b6446809b37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/1920. Build Array from Permutation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1920. Build Array from Permutation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2011. Final Value of Variable After Performing Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2011. Final Value of Variable After Performing Operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2099. Find Subsequence of Length K With the Largest Sum.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2099. Find Subsequence of Length K With the Largest Sum.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2469. Convert the Temperature.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2469. Convert the Temperature.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2769. Find the Maximum Achievable Number.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2769. Find the Maximum Achievable Number.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/344. Reverse String.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/344. Reverse String.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3668. Restore Finishing Order.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3668. Restore Finishing Order.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. Palindrome Number.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9. Palindrome Number.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="3FoUHt2UrnIym7MEWcwgp4UlhMf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/k/Desktop/Python/Leetcode"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a1941e-2c9a-490b-89d5-7b6446809b37" name="Changes" comment="" />
+      <created>1782740831751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782740831751</updated>
+    </task>
+    <servers />
+  </component>
+</project>
